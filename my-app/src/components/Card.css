@@ -1,0 +1,36 @@
+.Card{
+    width: 350px;
+    height: 250px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.icon{
+    margin: 10px;
+    height: 60px;
+    width: 60px;
+    box-shadow: 2px;
+    border: 8px solid white;
+    background-color: white;
+    border-radius: 50%;
+}
+
+.top{
+    height: 50px;
+    background-color: rgb(11 127 114);
+}
+
+.title{
+    font-size: 2rem;
+    color: darkcyan;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 20px;
+}
+
+.description{
+    margin: 5px;
+    font-size: 1rem;
+    color: rgb(24, 197, 197);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
